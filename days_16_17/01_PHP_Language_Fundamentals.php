@@ -2,8 +2,8 @@
 
   // set up global error reporting (PHP usually 'silently fails' - this gives you more information about what's going on -
   // comment these lines out once you're happy with your program)
-  //error_reporting(E_ALL);
-  //ini_set("display_errors", 1);
+  // error_reporting(E_ALL);
+  // ini_set("display_errors", 1);
 
   // you can output values using the 'print' or 'echo' commands - note that these
   // are commands, not functions, so using a set of () is not required (though the interpreter
